@@ -38,3 +38,10 @@ button {
     border-radius: 4px;
     font-weight: bold;
 }
+
+.btn {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 6px;
+}
