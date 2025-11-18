@@ -13,7 +13,6 @@ A collection of **JavaScript mini-projects** built while learning DOM manipulati
 
 ## How does each project look?
 
-
 ### [3. Chrome Extension](./3_chrome_extension)
 A basic Chrome extension built using HTML, CSS, and JavaScript.  
 **Concepts:** Manifest file, DOM scripting inside extension environment, event handling.  
