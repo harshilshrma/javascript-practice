@@ -2,8 +2,6 @@
 
 A collection of **JavaScript mini-projects** built while learning DOM manipulation, events, user interaction, and browser APIs. Each project focuses on strengthening **core JS fundamentals** through practical, hands-on exercises.
 
-<br>
-
 ## Key Learnings
 - DOM selection and manipulation  
 - Handling user events  
@@ -12,7 +10,6 @@ A collection of **JavaScript mini-projects** built while learning DOM manipulati
 - Basic Chrome extension development  
 - Clean code structure for small apps
 
-<br>
 
 ## How does each project look?
 
