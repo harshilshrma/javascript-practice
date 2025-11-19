@@ -5,6 +5,18 @@ body {
     min-width: 400px;
 }
 
+h2 {
+    color: #5f9341;
+    margin-bottom: 0;
+}
+
+p {
+    color: #5f9341;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-style: italic;
+}
+
 input {
     width: 100%;
     padding: 10px 10px;
@@ -14,12 +26,17 @@ input {
 
 button {
     background-color: #5f9341;
+    border: 1px solid #5f9341;
     padding: 10px 20px;
-    border: none;
     color: white;
     font-weight: bold;
     cursor: pointer;
     margin-top: 6px;
+}
+
+#delete-btn {
+    background-color: white;
+    color: #5f9341;
 }
 
 ul {

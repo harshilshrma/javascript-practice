@@ -8,13 +8,13 @@ A collection of **JavaScript mini-projects** built while learning DOM manipulati
 - Updating UI dynamically using JS  
 - Randomness & game logic  
 - Basic Chrome extension development  
-- Clean code structure for small apps
+- Clean code structure for complex apps
 
 
 ## How does each project look?
 
-### [3. Chrome Extension](./3_chrome_extension)
-A basic Chrome extension built using HTML, CSS, and JavaScript.  
+### [3. Lead Tracker Extension](./3_chrome_extension)
+A basic Lead Tracker Chrome extension built using HTML, CSS, and JavaScript.  
 **Concepts:** Manifest file, DOM scripting inside extension environment, event handling.  
 ![Chrome Extension Preview](./3_chrome_extension/preview.png)
 
