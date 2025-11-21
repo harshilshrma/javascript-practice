@@ -33,7 +33,6 @@ A mobile-friendly PWA version of the Lead Tracker app with **Firebase Realtime D
 - Mobile-first UI/UX  
 
 
-
 ### [3. Lead Tracker Chrome Extension](./3_lead_tracker_extension)
 A Chrome extension that saves URLs, tabs, and user inputs efficiently.
 
