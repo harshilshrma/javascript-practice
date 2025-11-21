@@ -32,8 +32,6 @@ A mobile-friendly PWA version of the Lead Tracker app with **Firebase Realtime D
 - PWA manifest, icons, home-screen compatibility  
 - Mobile-first UI/UX  
 
-![Lead Tracker Mobile Preview](./4_lead_tracker_mobile_app/mobile.gif)
-
 
 
 ### [3. Lead Tracker Chrome Extension](./3_lead_tracker_extension)
